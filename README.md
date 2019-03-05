@@ -13,4 +13,4 @@ This is the current version of my resume / CV. The overall structure is as follo
 
 The .docx displays well in desktop versions of Microsoft Word, but some formatting breaks in web versions.
 
-The PDF version works well in all viewers, but has some slight formatting problems inherited from when I used the web version of Word to edit it. I eventually want to change the format to TeX or something similar.
+<i>The PDF version works well in all viewers, but has some slight formatting problems inherited from when I used the web version of Word to edit it. I eventually want to change the format to TeX or something similar.</i>
