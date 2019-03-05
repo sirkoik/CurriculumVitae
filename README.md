@@ -1,6 +1,6 @@
 # CurriculumVitae v0.5
 
-This is the current version of my resume. The overall structure is as follows:
+This is the current version of my resume / CV. The overall structure is as follows:
 1. Education
     1. College degree
     1. Certs with permalinks
