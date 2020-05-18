@@ -16,6 +16,9 @@ This is the current version of my resume / CV. The overall structure is as follo
 * Broke Mturk experience into two pages so it would still show up on the first page. Might change this later.
 * Removed version number from resume itself. Users can only see the date it was updated.
 * Put date updated in header. May change later.
+### v0.8a
+* Rearranged date/time ordering of experience.
+* Cleaned up layout a bit.
 
 ## v0.7
 * Added Git / GitHub skill
