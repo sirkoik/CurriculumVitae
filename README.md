@@ -19,6 +19,8 @@ This is the current version of my resume / CV. The overall structure is as follo
 ### v0.8a
 * Rearranged date/time ordering of experience.
 * Cleaned up layout a bit.
+### v0.8.1
+* Added Angular class completion and certificate link
 
 ## v0.7
 * Added Git / GitHub skill
