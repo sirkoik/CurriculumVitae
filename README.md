@@ -21,6 +21,9 @@ This is the current version of my resume / CV. The overall structure is as follo
 * Cleaned up layout a bit.
 ### v0.8.1
 * Added Angular class completion and certificate link
+### v0.8.1a
+* Added Github class completion and certificate link
+* Added Appen experience
 
 ## v0.7
 * Added Git / GitHub skill
