@@ -3,6 +3,7 @@
 This is the current version of my resume / CV. The overall structure is as follows:
 1. Education (college degree)
 1. Certs with permalinks
+1. Lessons with linked proof of completion (these are not certs but online lessons; proof may be in the form of screenshots)
 1. Work experience
 1. Leadership experience
 1. Skills
