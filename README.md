@@ -24,6 +24,9 @@ This is the current version of my resume / CV. The overall structure is as follo
 ### v0.8.1a
 * Added Github class completion and certificate link
 * Added Appen experience
+### v0.8.1b
+* Added "Lessons" section
+* Added Learn Git Branching lesson completion
 
 ## v0.7
 * Added Git / GitHub skill
