@@ -9,6 +9,10 @@ This is the current version of my resume / CV. The overall structure is as follo
 1. Skills
 1. References
 
+## v0.9
+* Added more legible resume URL (replaced spaces with underscores so there would be no "%20" characters in the URL)
+* The original resume URL is still there in case anyone has linked to it.
+
 ## v0.8
 * Emphasized AI/ML/social media aspect of data categorization skill
 * Added UX review skill to Mturk
