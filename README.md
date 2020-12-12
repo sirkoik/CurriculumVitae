@@ -1,10 +1,12 @@
+# CurriculumVitae
+
 # Latest Resume for Alexander Koik-Cestone
 
-<a href="/Alexander_Koik-Cestone_resume.pdf">Link to Resume / CV</a>
+<a href="/CurriculumVitae/Alexander_Koik-Cestone_resume.pdf">Link to Resume / CV</a>
 
 # Structure
 
-This is the current version of my resume / CV. The overall structure is as follows:
+This is the <a href="/CurriculumVitae/Alexander_Koik-Cestone_resume.pdf">current version of my resume / CV</a>. The overall structure is as follows:
 1. Education (college degree)
 1. Certs with permalinks
 1. Lessons with linked proof of completion (these are not certs but online lessons; proof may be in the form of screenshots)
