@@ -1,4 +1,8 @@
-# CurriculumVitae
+# Latest Resume for Alexander Koik-Cestone
+
+<a href="/Alexander_Koik-Cestone_resume.pdf">Link to Resume / CV</a>
+
+# Structure
 
 This is the current version of my resume / CV. The overall structure is as follows:
 1. Education (college degree)
