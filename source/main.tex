@@ -1,0 +1,256 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This is a modified ONE COLUMN version of
+% the following template:
+% 
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.1 (30/4/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{deedy-resume-openfont}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%\namesection{Alexander}{Koik-Cestone}{
+\namesection{}{Alexander Koik-Cestone}{
+\urlstyle{same}\url{https://sirkoik.github.io} \\
+\href{mailto:akoikcestone@gmail.com}{akoikcestone@gmail.com} | \href{tel:614-674-0668}{614-674-0668}
+}
+
+\href{https://www.linkedin.com/in/alexander-koik-cestone-89304556/}{https://www.linkedin.com/in/alexander-koik-cestone-89304556/}
+
+%\begin{center}
+%\huge\color{subheadings}\custombold{Biology and Programming}
+%\end{center}
+
+\sectionsep
+\location{I am a professional with a large amount of experience in detail-oriented data analysis work. I also have experience in usability testing and programming.}
+\sectionsep
+
+\section{Education}
+\runsubsection{University of Arizona}
+\descript{| Bachelor of Science in Molecular and Cellular Biology}
+\location{College of Arts and Sciences | Jan 2006 - Dec 2010 | Tucson, AZ}
+\sectionsep
+
+\runsubsection{University of Arizona}
+\descript{| Master of Science in Biology (unfinished)}
+\location{College of Arts and Sciences | Aug 2011-Jan 2012 | Tucson, AZ}
+\sectionsep
+
+\section{Experience}
+
+\runsubsection{TestBirds}
+\descript{| User Experience Analyst }
+\location{Nov 2016 - present | Dublin, OH}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Perform app and website usability testing for many clients.
+\item Write reports outlining steps taken during the test.
+\item Document bugs in a detailed fashion with screenshots, video recording, and written description.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{UserTesting}
+\descript{| User Experience Analyst }
+\location{Nov 2016 – present | Dublin, OH}
+\begin{tightemize}
+\item Analyze websites and apps for user experience problems for many clients and make suggestions about where their design could be improved.
+\item Identify bugs or malfunctions in app and website designs.
+\item Identify areas where apps and websites were well-designed and provide suggestions for novel features that could be added.
+\item Interact with designers using both screencasting and Zoom.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Amazon, Appen, Crowdsurf}
+\descript{| Data Entry and Transcription}
+\location{Jan 2014 - present | Dublin, OH}
+\begin{tightemize}
+\item I transcribed audio and video conversations, interpreting and tagging them appropriately.
+\item Categorized data to train AI and ML models.
+\item Participated in paid pilot experiments for academic, scientific, and corporate institutions.
+\item Provided user experience feedback for websites and apps.
+\item Worked as a fact checker, investigating claims on social media posts for accuracy.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{University of Arizona Room and Course Scheduling}
+\descript{| Administrative Assistant / Intern}
+\location{Aug 2006 – May 2007, Aug 2009 - May 2010 | Tucson, AZ}
+\begin{tightemize}
+\item Room and Course Scheduling (RCS) is the office that reserves rooms for classes and outside customers on the University campus.
+\item I used database software, such as Ad Astra and Microsoft Access, to prepare reports that assisted in room assignment decision making.
+\item Participated in regular meetings with fellow students, superiors, and university officials discussing scheduling needs.
+\item Developed VBA macros to streamline the scheduling report process.
+\end{tightemize}
+\sectionsep
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     CERTIFICATIONS AND CLASSES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Certifications and classes}
+\runsubsection{Git \& Github - The Practical Guide}
+\descript{| \href{https://sirkoik.github.io/CurriculumVitae/certifications/certificate-of-completion-for-git-github-the-practical-guide.pdf}{Certified Dec 2020} }
+This course gave me a basic understanding of both Git and GitHub.
+\sectionsep
+
+\runsubsection{Angular - The Complete Guide (2020 Edition)}
+\descript{| \href{https://www.udemy.com/certificate/UC-624f6f83-940e-428f-accd-d16113661ded/}{Certified Oct 2020}}
+Learned how to create dynamic websites using the Angular framework.
+\sectionsep
+
+\runsubsection{Complete AJAX Using Bootstrap, PHP from Basic to Advanced}
+\descript{| \href{https://www.udemy.com/certificate/UC-E3EMJE4O/}{Certified Apr 2018}}
+Learned AJAX, Bootstrap CSS, and the PHP programming language.
+\sectionsep
+
+\runsubsection{The Complete HTML & CSS Course, From Novice to Professional}
+\descript{| \href{https://www.udemy.com/certificate/UC-QZDWYX3V/}{Certified Apr 2017}}
+Learned the HTML and CSS languages for writing website front-ends.
+\sectionsep
+
+\runsubsection{Complete jQuery and jQuery UI Course for Beginner}
+\descript{| \href{https://www.udemy.com/certificate/UC-4V285L2N/}{Certified Dec 2016}}
+Learned how to use jQuery, a dynamic JavaScript framework for web pages.
+\sectionsep
+
+\section{Classes in progress}
+\runsubsection{React, The Complete Guide}
+\descript{| Jan 2021-}
+Learning how to create dynamic websites using the React framework.
+\sectionsep
+
+\section{Skills}
+\runsubsection{Basic skills}
+\begin{tightemize}
+\item Microsoft Office: Word, Excel, PowerPoint, Access.
+\item Zoom: Collaboration, breakout rooms, screen sharing.
+\item OneDrive, Google Drive, cloud storage
+\item Todoist (collaborative task management system)
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Programming and Scripting languages}
+\begin{tightemize}
+\item JavaScript: ES5, ES6
+\item JavaScript libraries: jQuery, ThreeJS
+\item Frameworks: Angular
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Markup languages}
+\begin{tightemize}
+\item HTML, HTML5
+\item CSS, CSS3
+\item XML
+\item JSON
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Version Management}
+\begin{tightemize}
+\item Git
+\item GitHub
+\item Atlassian BitBucket
+\end{tightemize}
+\sectionsep
+
+\runsubsection{User Experience}
+\begin{tightemize}
+\item Usability testing of apps and websites
+\item Bug hunting and submitting bug reports
+\item Highlighting well-designed parts of apps and websites
+\item Suggesting usability changes in areas where improvements are needed
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Data Entry}
+\begin{tightemize}
+\item Amazon Mechanical Turk (5 years of experience)
+\item Video and Audio Transcription
+\item Categorization of items to train Machine Learning algorithms
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Fact Checking}
+\begin{tightemize}
+\item Fact checking political and medicine-related social media posts and videos
+\item Investigating claims to make sure that they are backed up by reputable sources
+\item Rating posts on how true or false they are, in part and in aggregate
+\end{tightemize}
+
+
+%\section{Languages}
+%\begin{minipage}[t]{.6\textwidth}
+%\subsection{Programming}
+%\location{Over 5000 lines:}
+%JavaScript \textbullet{} Shell \textbullet{} VBA \\ 
+%\location{Over 1000 lines:}
+%C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} VBA \\
+%\location{Familiar:}
+%AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+%\sectionsep
+%\end{minipage}
+%\hfill
+%\begin{minipage}[t]{.35\textwidth}
+%\subsection{Spoken \& Written}
+%\location{Native fluency:} English\\
+%\end{minipage}
+
+\end{document}  \documentclass[]{article}

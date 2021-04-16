@@ -1,62 +1,22 @@
-# CurriculumVitae
+# CurriculumVitae v1.x
 
 # Latest Resume for Alexander Koik-Cestone
 
 <a href="/CurriculumVitae/Alexander_Koik-Cestone_resume.pdf">Link to Resume / CV</a>
 
+# Format
+
+This CV is written in XeLaTeX from Overleaf.com. It is based on the <a href="https://www.overleaf.com/latex/templates/single-column-deedy-cv-slash-resume-template/zwyxmkbrfgtz">Single Column Deedy CV / Resume template.</a>
+
 # Structure
 
-This is the <a href="/CurriculumVitae/Alexander_Koik-Cestone_resume.pdf">current version of my resume / CV</a>. The overall structure is as follows:
-1. Education (college degree)
-1. Certs with permalinks
-1. Lessons with linked proof of completion (these are not certs but online lessons; proof may be in the form of screenshots)
-1. Work experience
-1. Leadership experience
-1. Skills
-1. References
+The CV is divided into:
+* Intro -- name, address, phone number, email, LinkedIn profile.
+* Education -- degrees.
+* Experience -- work experience.
+* Certifications and classes -- certs and classes I have taken.
+* Classes in progress -- classes I'm taking right now.
+* Skills -- useful skills I have accumulated over the years.
 
-## v0.9
-* Added more legible resume URL (replaced spaces with underscores so there would be no "%20" characters in the URL)
-* The original resume URL is still there in case anyone has linked to it.
-
-## v0.8
-* Emphasized AI/ML/social media aspect of data categorization skill
-* Added UX review skill to Mturk
-* Added Zoom skill
-* Added Screencast recording skill
-* Broke Mturk experience into two pages so it would still show up on the first page. Might change this later.
-* Removed version number from resume itself. Users can only see the date it was updated.
-* Put date updated in header. May change later.
-### v0.8a
-* Rearranged date/time ordering of experience.
-* Cleaned up layout a bit.
-### v0.8.1
-* Added Angular class completion and certificate link
-### v0.8.1a
-* Added Github class completion and certificate link
-* Added Appen experience
-### v0.8.1b
-* Added "Lessons" section
-* Added Learn Git Branching lesson completion
-
-## v0.7
-* Added Git / GitHub skill
-* Added date and version information to footer
-
-## v0.6
-* Added Prolific, Appen work experience
-* Updated UserTesting work experience
-* Added skills: Blender, Three.js
-* Added skills: Apache, WAMPServer
-* Updated skills
-* Changed cert sub-headings to "Certifications"
-* Removed TestBirds "Bird" title
-* Formatting fixes
-
-## v0.5
-
-Initial
-
-## Display note 
-
-I have learned how to fix the formatting problems in the .docx and .pdf versions of the resume / CV.
+# Source
+Source for the main TeX file is available in the source folder.
