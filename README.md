@@ -20,3 +20,8 @@ The CV is divided into:
 
 # Source
 Source for the main TeX file is available in the source folder.
+
+# Log
+## 5/11/2021
+Added LaTeX skill.
+Added Codewarrior section.
