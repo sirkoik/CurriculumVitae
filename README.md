@@ -22,6 +22,9 @@ The CV is divided into:
 Source for the main TeX file is available in the source folder.
 
 # Log
+## 5/20/2021
+Add Agile for One Pluralsight course
+
 ## 5/15/2021
 Update Codewarrior (5 kyu)
 
