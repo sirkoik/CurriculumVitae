@@ -22,6 +22,20 @@ The CV is divided into:
 Source for the main TeX file is available in the source folder.
 
 # Log
+## 5/24/2021
+* Add React: The Big Picture Pluralsight course
+* Add skills
+	* React
+	* Redux
+	* Create-react-app
+	* TypeScript
+	* Jasmine
+* Link improvement
+	* Color hyperlinks
+	* Make all links more obvious
+	* Rearrange / simplify header links
+	* GitHub link
+
 ## 5/20/2021
 Add Agile for One Pluralsight course
 
@@ -29,5 +43,5 @@ Add Agile for One Pluralsight course
 Update Codewarrior (5 kyu)
 
 ## 5/11/2021
-Added LaTeX skill.
-Added Codewarrior section.
+Add LaTeX skill
+Add Codewars section
