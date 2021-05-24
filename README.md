@@ -40,7 +40,7 @@ Source for the main TeX file is available in the source folder.
 Add Agile for One Pluralsight course
 
 ## 5/15/2021
-Update Codewarrior (5 kyu)
+Update Codewars (5 kyu)
 
 ## 5/11/2021
 * Add LaTeX skill
