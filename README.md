@@ -43,5 +43,5 @@ Add Agile for One Pluralsight course
 Update Codewarrior (5 kyu)
 
 ## 5/11/2021
-Add LaTeX skill
-Add Codewars section
+* Add LaTeX skill
+* Add Codewars section
