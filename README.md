@@ -38,8 +38,7 @@ Source for the main TeX file is available in the source folder.
 	* HTML5
 	* CSS
 	* JSON
-	* VBA
-	* PHP
+	* MySQL
 * Add IDE skills
 	* VS Code
 	* IntelliJ IDEA
