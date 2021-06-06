@@ -22,6 +22,33 @@ The CV is divided into:
 Source for the main TeX file is available in the source folder.
 
 # Log
+## 6/6/2021
+* Add skills
+	* Trello
+	* Front-end Development
+	* VBA
+* Add project link
+	* Plan to elaborate on this more.
+* Add footnote indicating which skills have LinkedIn Skill Assessment Badges 
+	* Word
+	* Excel
+	* JavaScript
+	* jQuery
+	* Angular
+	* HTML5
+	* CSS
+	* JSON
+* Add IDE skills
+	* VS Code
+	* IntelliJ IDEA
+	* Brackets
+* Add Pluralsight
+	* Pluralsight section
+	* Links to Pluralsight skill IQs
+		* JavaScript
+		* HTML5
+* Improve spacing in skills subsections
+
 ## 5/24/2021
 * Add React: The Big Picture Pluralsight course
 * Add skills
