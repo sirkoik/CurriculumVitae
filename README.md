@@ -24,9 +24,9 @@ Source for the main TeX file is available in the source folder.
 # Log
 ## 6/7/2021
 * Add skills
-	*Styled Components
-	*NgRx
-	*RxJS
+	* Styled Components
+	* NgRx
+	* RxJS
 * Rearranged DB skills into their own section
 * Rearranged other programming/scripting skills into an easier-to-read flow
 
