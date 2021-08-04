@@ -22,6 +22,10 @@ The CV is divided into:
 Source for the main TeX file is available in the source folder.
 
 # Log
+## 8/4/2021
+* Add LinkedIn Skills Assessment Badge
+	* React / ReactJS
+
 ## 6/7/2021
 * Add skills
 	* Styled Components
