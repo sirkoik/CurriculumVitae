@@ -25,6 +25,13 @@ Source for the main TeX file is available in the source folder.
 
 # Log
 
+## 9/3/2021
+
+- Add certificate
+  - React - The Complete Guide (Incl Hooks, React Router, Redux)
+- Update "in progress" section
+- Fix newline bug
+
 ## 8/22/2021
 
 - Add skills
