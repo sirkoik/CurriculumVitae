@@ -30,6 +30,7 @@ Source for the main TeX file is available in the source folder.
 - Improve SQL and database-related experience
 - Add number of years experience to skills
 - Add descriptions to title links
+- Separate Perl and Genbank into distinct items
 
 ## 9/3/2021
 
