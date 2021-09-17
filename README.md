@@ -31,6 +31,7 @@ Source for the main TeX file is available in the source folder.
 - Add number of years experience to skills
 - Add descriptions to title links
 - Separate Perl and Genbank into distinct items
+- Fix date last modified display, make title smaller
 
 ## 9/3/2021
 
