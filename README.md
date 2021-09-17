@@ -25,6 +25,12 @@ Source for the main TeX file is available in the source folder.
 
 # Log
 
+## 9/17/2021
+- Add Freelance Projects subsection to Experience
+- Improve SQL and database-related experience
+- Add number of years experience to skills
+- Add descriptions to title links
+
 ## 9/3/2021
 
 - Add certificate
