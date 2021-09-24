@@ -25,6 +25,10 @@ Source for the main TeX file is available in the source folder.
 
 # Log
 
+## 9/24/2021
+- Add skill
+	- Node.JS (basic)
+
 ## 9/23/2021
 - Add certificate
 	- Node.JS: The Big Picture
