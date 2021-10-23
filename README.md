@@ -25,6 +25,10 @@ Source for the main TeX file is available in the source folder.
 
 # Log
 
+## 10/22/2021
+- Add skills
+	- SASS / SCSS
+
 ## 9/24/2021
 - Add skill
 	- Node.JS (basic)
