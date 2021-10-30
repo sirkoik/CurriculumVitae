@@ -318,29 +318,6 @@ INPUT .\resume.aux
 INPUT resume.aux
 INPUT resume.aux
 OUTPUT resume.aux
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
@@ -386,10 +363,10 @@ INPUT .\resume.out
 INPUT resume.out
 INPUT .\resume.out
 INPUT resume.out
+OUTPUT resume.pdf
 INPUT .\resume.out
 INPUT .\resume.out
 OUTPUT resume.out
-OUTPUT resume.pdf
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -400,10 +377,14 @@ INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\tfm\public\
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT resume.aux
 INPUT .\resume.out
 INPUT .\resume.out
+INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
