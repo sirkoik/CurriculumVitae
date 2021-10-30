@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  30 OCT 2021 16:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  30 OCT 2021 16:56
 entering extended mode
 **"c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex"
 (c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex
@@ -204,20 +204,20 @@ Overfull \hbox (10.81729pt too wide) in paragraph at lines 53--54
 
 [2] (resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: ECF880AE4BB10627E4B369215FE2D639;340.
+(rerunfilecheck)             Checksum: 1840D2140718AF037A5FCA470D3D7213;413.
  ) 
 Here is how much of TeX's memory you used:
- 7034 strings out of 478864
- 108402 string characters out of 2842936
+ 7036 strings out of 478864
+ 108422 string characters out of 2842936
  412851 words of memory out of 3000000
- 24908 multiletter control sequences out of 15000+600000
+ 24909 multiletter control sequences out of 15000+600000
  407378 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,6n,66p,353b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on resume.pdf (2 pages, 87075 bytes).
+Output written on resume.pdf (2 pages, 90004 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 75 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
