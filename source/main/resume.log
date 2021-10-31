@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  30 OCT 2021 21:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  30 OCT 2021 21:41
 entering extended mode
 **"c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex"
 (c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex
@@ -148,7 +148,9 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip49
-) (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 17.
+ (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count269
 \l__pdf_internal_box=\box50
@@ -208,15 +210,37 @@ LaTeX Font Info:    ... okay on input line 24.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 24.
-(C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+ (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+ (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen151
+\scratchbox=\box51
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen152
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks19
+)))
+Package hyperref Info: Link coloring ON on input line 24.
+ (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count270
+\c@section@level=\count276
 )
 LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
@@ -228,12 +252,12 @@ LaTeX Info: Redefining \nameref on input line 24.
  [1
 
 {C:/Users/Alex Koik-Cestone/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (8.71416pt too wide) in paragraph at lines 87--88
+Overfull \hbox (8.71416pt too wide) in paragraph at lines 92--93
 []\OT1/cmr/m/n/10 Oct 2020. Learned about An-gu-lar, RxJS, NgRx, routes,
  []
 
 
-Overfull \hbox (12.72452pt too wide) in paragraph at lines 89--90
+Overfull \hbox (12.72452pt too wide) in paragraph at lines 94--95
 []\OT1/cmr/m/n/10 Apr 2017. Learned about HTML
  []
 
@@ -242,15 +266,15 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 2A6B8216B5303157F74D0E2C32DA177F;506.
  ) 
 Here is how much of TeX's memory you used:
- 7599 strings out of 478864
- 117426 string characters out of 2842936
- 433909 words of memory out of 3000000
- 25462 multiletter control sequences out of 15000+600000
+ 8124 strings out of 478864
+ 124783 string characters out of 2842936
+ 442306 words of memory out of 3000000
+ 25973 multiletter control sequences out of 15000+600000
  404977 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,66p,353b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,66p,353b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Alex Koik-Cestone\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on resume.pdf (2 pages, 81882 bytes).
+Output written on resume.pdf (2 pages, 81747 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
