@@ -1,7 +1,5 @@
 # CurriculumVitae v2.x
 
-# Link to latest resume PDF file
-
 <a href="/CurriculumVitae/Alexander_Koik-Cestone_resume.pdf">Link to Resume</a>
 
 # Sections

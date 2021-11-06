@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  6 NOV 2021 08:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  6 NOV 2021 13:34
 entering extended mode
 **"c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex"
 (c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex
@@ -192,7 +192,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip49
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 22.
+Package hyperref Info: Option `colorlinks' set `true' on input line 23.
  (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip50
@@ -208,24 +208,24 @@ File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 ) (resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -235,15 +235,15 @@ LaTeX Font Info:    ... okay on input line 41.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* h-part:(L,W,R)=(65.04256pt, 484.20988pt, 65.04256pt)
+* v-part:(T,H,B)=(65.04256pt, 664.88487pt, 65.04256pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=469.75502pt
-* \textheight=650.43001pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-37.0pt
+* \textwidth=484.20988pt
+* \textheight=664.88487pt
+* \oddsidemargin=-7.22743pt
+* \evensidemargin=-7.22743pt
+* \topmargin=-44.22743pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -285,7 +285,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \makeMPintoPDFobject=\count280
 \everyMPtoPDFconversion=\toks22
 )))
-Package hyperref Info: Link coloring ON on input line 41.
+Package hyperref Info: Link coloring ON on input line 42.
  (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -295,37 +295,42 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count281
 )
-LaTeX Info: Redefining \ref on input line 41.
-LaTeX Info: Redefining \pageref on input line 41.
-LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
  (resume.out) (resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/l/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/light/n' on input line 44.
+(Font)              `T1/RobotoSlab-TLF/light/n' on input line 45.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/l/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/light/n' on input line 56.
+(Font)              `T1/RobotoSlab-TLF/light/n' on input line 57.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 56.
+(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 57.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 63.
-
-Overfull \hbox (0.75848pt too wide) in paragraph at lines 65--66
-[]\T1/RobotoSlab-TLF/light/n/10 Narrated tale about comet 2P/Borisov. Uses CSS and JavaScript to cre-ate a scrolling
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+RobotoSlab-TLF on input line 75.
-(C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/roboto\ts1robotoslab-tlf.fd
+(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 64.
+LaTeX Font Info:    Trying to load font information for TS1+RobotoSlab-TLF on input line 76.
+ (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/roboto\ts1robotoslab-tlf.fd
 File: TS1RobotoSlab-TLF.fd 2019/12/11 (autoinst) Font definitions for TS1/RobotoSlab-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/RobotoSlab-TLF/l/n' aliased to
-(Font)              `TS1/RobotoSlab-TLF/light/n' on input line 75.
+(Font)              `TS1/RobotoSlab-TLF/light/n' on input line 76.
  [1
 
 {C:/Users/Alex Koik-Cestone/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (15.08717pt too wide) in paragraph at lines 117--118
+Overfull \hbox (0.63231pt too wide) in paragraph at lines 118--119
 []\T1/RobotoSlab-TLF/light/n/10 Oct 2021. Learned about
+ []
+
+
+Overfull \hbox (10.14038pt too wide) in paragraph at lines 124--125
+[]\T1/RobotoSlab-TLF/light/n/10 Oct 2020. Learned about An-gu-lar, RxJS, NgRx, routes, guards,
+ []
+
+
+Overfull \hbox (1.85365pt too wide) in paragraph at lines 126--127
+[]\T1/RobotoSlab-TLF/light/n/10 Apr 2017. Learned about HTML and CSS
  []
 
 [2] (resume.aux)
@@ -338,13 +343,13 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  9249 strings out of 478864
  144583 string characters out of 2842936
- 459449 words of memory out of 3000000
+ 460577 words of memory out of 3000000
  27055 multiletter control sequences out of 15000+600000
  429535 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,5n,66p,403b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_rehtu3.enc}{C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_j2bk2t.enc}<C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoSlab-Bold.pfb><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoSlab-Light.pfb>
-Output written on resume.pdf (2 pages, 66391 bytes).
+Output written on resume.pdf (2 pages, 66571 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
