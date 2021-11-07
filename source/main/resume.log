@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  6 NOV 2021 13:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  7 NOV 2021 15:53
 entering extended mode
 **"c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex"
 (c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex
@@ -235,15 +235,15 @@ LaTeX Font Info:    ... okay on input line 42.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(65.04256pt, 484.20988pt, 65.04256pt)
-* v-part:(T,H,B)=(65.04256pt, 664.88487pt, 65.04256pt)
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=484.20988pt
-* \textheight=664.88487pt
-* \oddsidemargin=-7.22743pt
-* \evensidemargin=-7.22743pt
-* \topmargin=-44.22743pt
+* \textwidth=542.02501pt
+* \textheight=722.7pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -309,31 +309,16 @@ LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/l/n' aliased to
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
 (Font)              `T1/RobotoSlab-TLF/bold/n' on input line 57.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 64.
-LaTeX Font Info:    Trying to load font information for TS1+RobotoSlab-TLF on input line 76.
+(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 65.
+LaTeX Font Info:    Trying to load font information for TS1+RobotoSlab-TLF on input line 79.
  (C:\Users\Alex Koik-Cestone\AppData\Local\Programs\MiKTeX\tex/latex/roboto\ts1robotoslab-tlf.fd
 File: TS1RobotoSlab-TLF.fd 2019/12/11 (autoinst) Font definitions for TS1/RobotoSlab-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/RobotoSlab-TLF/l/n' aliased to
-(Font)              `TS1/RobotoSlab-TLF/light/n' on input line 76.
+(Font)              `TS1/RobotoSlab-TLF/light/n' on input line 79.
  [1
 
-{C:/Users/Alex Koik-Cestone/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (0.63231pt too wide) in paragraph at lines 118--119
-[]\T1/RobotoSlab-TLF/light/n/10 Oct 2021. Learned about
- []
-
-
-Overfull \hbox (10.14038pt too wide) in paragraph at lines 124--125
-[]\T1/RobotoSlab-TLF/light/n/10 Oct 2020. Learned about An-gu-lar, RxJS, NgRx, routes, guards,
- []
-
-
-Overfull \hbox (1.85365pt too wide) in paragraph at lines 126--127
-[]\T1/RobotoSlab-TLF/light/n/10 Apr 2017. Learned about HTML and CSS
- []
-
-[2] (resume.aux)
+{C:/Users/Alex Koik-Cestone/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] (resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -343,13 +328,13 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  9249 strings out of 478864
  144583 string characters out of 2842936
- 460577 words of memory out of 3000000
+ 462541 words of memory out of 3000000
  27055 multiletter control sequences out of 15000+600000
  429535 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,66p,403b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,66p,405b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_rehtu3.enc}{C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_j2bk2t.enc}<C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoSlab-Bold.pfb><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoSlab-Light.pfb>
-Output written on resume.pdf (2 pages, 66571 bytes).
+Output written on resume.pdf (2 pages, 66463 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
