@@ -1,0 +1,147 @@
+% Article class document
+\documentclass{article}
+
+% Setup margins (page geometry)
+\usepackage{geometry}
+\geometry{letterpaper, portrait, margin=0.5in}
+
+% Custom font
+% https://tug.org/FontCatalogue/robotoslablight/
+\usepackage[rm,light]{roboto}
+\usepackage[T1]{fontenc}
+
+% Automatic file modification date
+\usepackage{filemod}
+
+% Setup hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  pdftitle={Alexander Koik-Cestone - Resume},
+  % pdfborderstyle={/S/U/W 1},
+  colorlinks=true,
+  urlcolor=blue
+}
+
+\usepackage{xcolor}
+
+% Sets left margin of all lists.
+% Could use leftmargin= in just the itemized lists
+% so that not all lists are affected by this setting.
+% https://tex.stackexchange.com/questions/170525/itemize-left-margin
+\usepackage{enumitem}
+% \setlist{leftmargin=4.5mm}
+\setlist[itemize]{
+  leftmargin=1.5mm,
+  topsep=0pt
+  % itemsep=0pt
+}
+
+\author{Alexander Koik-Cestone}
+% Using a negative vspace to reduce the top margin of the title
+%\title{\texorpdfstring{\vspace{-2.0cm}}{}Resume}
+\title{Resume}
+
+\begin{document}
+
+\begin{center}
+{\huge Alexander Koik-Cestone\vspace{0.3cm}} \\
+\href{https://sirkoik.github.io#portfolio}{Portfolio}
+\textcolor{gray}{\textbullet}
+\href{https://www.linkedin.com/in/alexander-koik-cestone-89304556/}{LinkedIn}
+\textcolor{gray}{\textbullet}
+\href{mailto:akoikcestone@gmail.com}{akoikcestone@gmail.com}
+\textcolor{gray}{\textbullet}
+\href{tel:614-674-0668}{614-674-0668} \\
+%Last updated \filemodprintdate{\jobname} \\
+\end{center}
+
+\noindent
+I am a developer and tester specializing in web and app front-ends and back-ends with three years of experience. I collaborate with teams, supervisors and peers, and provide extensive and detailed feedback in software prototype tests. I have expert proficiency in HTML5.
+
+\addcontentsline{toc}{section}{Education}
+\section*{Education}\vspace{-0.5em}
+Bachelor's of Science in Molecular and Cellular Biology. University of Arizona, 2010.
+
+\addcontentsline{toc}{section}{Portfolio}
+\vspace{-0.5em}
+\section*{Portfolio}\vspace{-0.5em}
+
+\begin{description}
+  \item[\href{https://sirkoik.github.io/Celestial-Compare}{Celestial Compare}] React-based planetary body comparison app. Makes extensive use of React hooks.\\ \href{https://sirkoik.github.io/Celestial-Compare}{Live site} \textcolor{gray}{\textbullet} \href{https://github.com/sirkoik/Celestial-Compare}{Source code}
+  \item[\href{https://sirkoik.github.io/WeatherNg}{WeatherNg}] Angular-based weather app. Makes use of NgRx, RxJS, and calls to multiple API endpoints.\\ \href{https://sirkoik.github.io/WeatherNg}{Live site} \textcolor{gray}{\textbullet} \href{https://github.com/sirkoik/WeatherNg}{Source code}
+  \item[\href{https://sirkoik.github.io/BorisovXmas}{Comet 2P/Borisov}] Narrated tale about comet 2P/Borisov.\\ \href{https://sirkoik.github.io/BorisovXmas}{Live site} \textcolor{gray}{\textbullet} \href{https://github.com/sirkoik/BorisovXmas}{Source code}
+  \item[\href{https://sirkoik.github.io/February}{Valentine's Day card}] Animated Valentine's Day greeting card app with customizable message.\\
+   \href{https://sirkoik.github.io/February}{Live site} \textcolor{gray}{\textbullet} \href{https://github.com/sirkoik/February}{Source code}
+\end{description}
+
+\addcontentsline{toc}{section}{Experience}
+\vspace{-1em}
+\section*{Experience}\vspace{-0.5em}
+
+\begin{description}
+  \item[Crowd Data Analyst] Amazon. Dublin, OH. Jan 2014-present.
+  \begin{itemize}
+    \item Provide user experience feedback for websites and apps.
+    \item Participate in A/B tests with wireframe mockups.
+    \item Categorize datasets to train AI and Machine Learning models for corporate and academic institutions.
+    \item Transcribe audio and video conversations, interpreting and tagging them appropriately.
+  \end{itemize}
+  \item[User Experience Consultant] UserTesting. Dublin, OH. Nov 2016-present.
+  \begin{itemize}
+    \item Perform usability testing for client apps and websites.
+    \item Identify bugs or malfunctions in app and website designs, and provide suggestions for improvements or novel features that could be added.
+    \item Answer questions from designers in one-on-one discussions.
+    \item Collaborate with designers using screen sharing tools such as Zoom.
+  \end{itemize}  
+\end{description}
+
+\addcontentsline{toc}{section}{Skills}
+\vspace{-1em}
+\section*{Skills}\vspace{-0.5em}
+
+\begin{description}
+  \item [Collaborative] Working with teams on projects. Collaborating with supervisors and peers. Answering questions in a thorough and detailed way. Pacing discussions well in a way that avoids being too detailed but also having enough detail to be understandable.
+  \item [Communication] Speaking clearly and discussing project goals in a succinct way. Distilling complex topics into easily digestible information. Taking feedback seriously and implementing changes suggested by supervisors and/or clients.
+  \item [Frameworks / libraries] React, Angular, Bootstrap, ThreeJS
+  \item [Scripting languages] JavaScript, TypeScript
+  \item [Markup languages] HTML, HTML5 (\href{https://app.pluralsight.com/profile/alexander-koik-cesto}{expert proficiency}), CSS, CSS3, Sass, SCSS, JSON, XML, Markdown, LaTeX
+  \item [Performance, SEO] Lighthouse
+  \item [Version control] Git, Github, Bitbucket
+  \item [Programming languages] Java
+  \item [Macro languages] VBA
+  \item [Databases] SQL, MySQL, Firebase
+  \item [Security] Preventing cross-site scripting (XSS) and SQL injection attacks
+  \item [Basic knowledge] NodeJS, NextJS, Webpack, MongoDB, Vercel hosting, Jest, REST APIs
+  \item [Codewars] Completed \href{https://www.codewars.com/users/sirkoik}{60 katas} in Java, JavaScript, and TypeScript.
+  \item [LinkedIn skill badges] HTML, CSS, Front-end Development, AngularJS, React.js, JavaScript, JSON,\\ jQuery, PHP, MySQL, VBA, Microsoft Word, Microsoft Excel
+\end{description}
+
+% \addcontentsline{toc}{section}{Certifications}
+% \vspace{-1em}
+% \section*{Certifications}\vspace{-0.5em}
+% \begin{description}
+%   \item []
+% \end{description}
+
+\addcontentsline{toc}{section}{Classes and Conferences}
+\vspace{-1em}
+\section*{Classes and Conferences}\vspace{-0.5em}
+\begin{description}
+  \item [Microsoft Azure Virtual Training Day: AI Fundamentals] Nov 2021. Mastered the fundamentals of AI and its use with the Azure platform. Learned about computer vision, machine learning, Azure's Natural Language Processing, and conversational AI and bot tooling. Learned about AI basics such as training sets, validation sets, and the confusion matrix. Learned about supervised and unsupervised learning, and how Azure can automate machine learning by selecting the most optimal algorithms. Learned about Azure's Cognitive Services such as the Computer Vision Service and how they can be consumed with REST APIs. Learned about speech recognition and Language Understanding (LUIS). Learned about the challenges and risks associated with AI and how to use it in a responsible manner.
+  \item [Microsoft Azure Virtual Training Day: Fundamentals] Nov 2021. Mastered the fundamentals of Microsoft Azure, including availability options, resource groups, the resource manager, subscriptions, VMs, app services, serverless computing, container services and Kubernetes, Windows Virtual Desktop, Azure Database Service, the Defense in Depth model and Network Security Groups, the Azure firewall and DDoS protection, Azure identity services, Role-Based Access Control, resource locks, tags, Azure policy, Azure Blueprints, the Cloud Adoption Framework, Compliance, the Azure Trust Center, data governance, pricing and SLAs.
+  \item [Microsoft Security Virtual Training Day: Secure and Protect Your Organization] Oct 2021. Learned about how to secure and protect Microsoft 365 enterprise and hybrid environments, proactively manage security threats, manage data governance, and control device use.
+  \item [\href{https://www.linkedin.com/posts/alexander-koik-cestone-89304556_alexander-koik-cestones-nextjs-conf-ticket-activity-6855242508260184065-xJP9/}{NextJS Conf 2021}] Oct 2021. Learned about NextJS 12 and edge functions. Watched speakers from various companies such as Invision talk about how NextJS helped both their developer and user experience.
+  \item [\href{https://sirkoik.github.io/CurriculumVitae/certifications/Nodejs-The-Big-Picture/certificate.pdf}{Node.JS: The Big Picture}] Sep 2021. Reached medium competency in NodeJS.
+  \item [\href{https://www.udemy.com/certificate/UC-2196f0cf-2dce-4a11-9d8e-421827506ad1/}{React - The Complete Guide}] Sep 2021. Mastered ReactJS, hooks, authentication, Redux, REST APIs, MongoDB, and NextJS. Completed several class projects.
+  \item [\href{https://sirkoik.github.io/CurriculumVitae/certifications/Agile-for-One/certificate.pdf}{Agile for One}] May 2021. Learned basic Agile and Scrum techniques for managing projects.
+  \item [\href{https://sirkoik.github.io/CurriculumVitae/certifications/certificate-of-completion-for-git-github-the-practical-guide.pdf}{Git \& Github - The Practical Guide}] Dec 2020. Learned the basics of both Git and Github.
+  \item [\href{https://www.udemy.com/certificate/UC-624f6f83-940e-428f-accd-d16113661ded}{Angular - The Complete Guide (2020 Edition)}] Oct 2020. Mastered Angular, RxJS, NgRx, routes, guards, REST API endpoints. Completed numerous class projects.
+  \item [\href{https://www.udemy.com/certificate/UC-E3EMJE4O}{Complete AJAX Using Bootstrap, PHP from Basic to Advanced}] Apr 2018. Mastered creating a basic website or web app with AJAX, the Bootstrap framework, and PHP.
+  \item [\href{https://www.udemy.com/certificate/UC-QZDWYX3V}{The Complete HTML \& CSS Course, From Novice to Professional}] Apr 2017. Became skilled at writing HTML and CSS-based web front-ends.
+  \item [\href{https://www.udemy.com/certificate/UC-4V285L2N}{Complete jQuery and jQuery UI Course for Beginner}] Dec 2016. Learned about jQuery.
+  \item [CSC 227 - Program Design and Development] University of Arizona, August 2008. Mastered primitives and arrays, basic control structures, recursion, linked structures, binary trees, and hashing in Java. This was the equivalent of CSC 127 A and B, or a year's worth of study combined into one intensive class. Received an A in the class.
+  \item [AP Computer Science A] May 2004. Mastered loops, data structures, linked lists, and object oriented programming concepts. Scored a 4 on the AP test.
+\end{description}
+
+
+\end{document}
