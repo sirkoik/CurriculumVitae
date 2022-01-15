@@ -1,6 +1,6 @@
 # CurriculumVitae v2.x
 
-<a href="/CurriculumVitae/Alexander_Koik-Cestone_resume.pdf">Link to Resume</a>
+<a href="https://sirkoik.github.io/CurriculumVitae/Alexander_Koik-Cestone_resume.pdf">Link to Resume</a>
 
 # Sections
 
