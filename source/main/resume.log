@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  14 JAN 2022 23:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  2 FEB 2022 00:04
 entering extended mode
 **"c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex"
 (c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex
@@ -328,7 +328,12 @@ LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
 (Font)              `T1/RobotoSlab-TLF/bold/n' on input line 64.
  [1
 
-{C:/Users/Alex Koik-Cestone/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] (resume.aux)
+{C:/Users/Alex Koik-Cestone/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Overfull \hbox (5.94713pt too wide) in paragraph at lines 152--153
+[]\T1/RobotoSlab-TLF/light/n/10 Jan 2022. Mas-tered the fun-da-men-tals of the Mi-crosoft
+ []
+
+[2] [3] (resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -344,7 +349,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  60i,5n,66p,1054b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_j2bk2t.enc}{C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_rehtu3.enc}<C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoSlab-Bold.pfb><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoSlab-Light.pfb>
-Output written on resume.pdf (3 pages, 76764 bytes).
+Output written on resume.pdf (3 pages, 77927 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
