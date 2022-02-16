@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  16 FEB 2022 14:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.23)  16 FEB 2022 15:18
 entering extended mode
 **"c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex"
 (c:/Users/Alex Koik-Cestone/OneDrive/Documents/CurriculumVitae/source/main/resume.tex
@@ -329,7 +329,7 @@ LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
  [1
 
 {C:/Users/Alex Koik-Cestone/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (5.94713pt too wide) in paragraph at lines 153--154
+Overfull \hbox (5.94713pt too wide) in paragraph at lines 159--160
 []\T1/RobotoSlab-TLF/light/n/10 Jan 2022. Mas-tered the fun-da-men-tals of the Mi-crosoft
  []
 
@@ -338,20 +338,20 @@ Overfull \hbox (5.94713pt too wide) in paragraph at lines 153--154
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 684D7B771C9F2F256362D81693A1025E;624.
+(rerunfilecheck)             Checksum: C4ABCDFE4702B65235BDAACB92F28058;776.
  ) 
 Here is how much of TeX's memory you used:
- 9645 strings out of 478864
- 148954 string characters out of 2842936
- 470930 words of memory out of 3000000
- 27447 multiletter control sequences out of 15000+600000
+ 9647 strings out of 478864
+ 148976 string characters out of 2842936
+ 469930 words of memory out of 3000000
+ 27448 multiletter control sequences out of 15000+600000
  429535 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,66p,1054b,560s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,66p,1063b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_j2bk2t.enc}{C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_rehtu3.enc}<C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoSlab-Bold.pfb><C:/Users/Alex Koik-Cestone/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoSlab-Light.pfb>
-Output written on resume.pdf (3 pages, 78588 bytes).
+Output written on resume.pdf (3 pages, 79038 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
