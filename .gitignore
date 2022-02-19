@@ -1,0 +1,3 @@
+.vscode
+source/main/
+!source/main/resume.tex
