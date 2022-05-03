@@ -4,7 +4,7 @@
 
 # Sections
 
-This resume is separated into several sections: Education, Portfolio, Experience, Skills, and Classes and Conferences.
+This resume is separated into several sections: Education, Portfolio, Certifications, Experience, Skills, and Classes and Conferences.
 
 ## Education
 
@@ -14,9 +14,13 @@ My education, including degrees. May include certifications.
 
 My portfolio of websites and apps.
 
+## Certifications
+
+Technical certifications I have obtained.
+
 ## Experience
 
-Work experience over the past 10 years.
+Work experience over the past 10-15 years.
 
 ## Skills
 
@@ -24,4 +28,4 @@ A list of hard and soft skills.
 
 ## Classes and Conferences
 
-Classes I have taken, as well as conferences I have attended.
+Classes I have taken and conferences I have attended.
