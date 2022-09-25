@@ -1,3 +1,4 @@
 .vscode
 source/main/
 !source/main/resume.tex
+copy resume.bat
