@@ -1,4 +1,7 @@
 .vscode
-source/main/
-!source/main/resume.tex
 copy resume.bat
+
+# Ignore everything in source/main except resume.tex
+source/main/*
+!source/main/
+!source/main/resume.tex
